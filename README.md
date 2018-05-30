@@ -14,3 +14,15 @@ source activate lab-meeting
 * close a jupyter notebook by pressing `ctrl-c` twice at the command prompt
 
 * deactivate conda environment via `source deactivate`
+ 
+# Render notebook as a live presentation
+
+* install RISE via `conda install -c damianavila82 rise`
+
+* New button to toggle slideshow appears in notebook toolbar
+
+* `View -> Cell Toolbar -> Slideshow` allows one to choose how each cell is displayed in the slideshow 
+
+References: 
+* https://github.com/damianavila/RISE
+* https://damianavila.github.io/RISE/
