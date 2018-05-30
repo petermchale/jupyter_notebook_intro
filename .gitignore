@@ -1,2 +1,3 @@
 installation.key
 *.pyc
+.DS_Store
