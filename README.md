@@ -24,5 +24,5 @@ source activate lab-meeting
 * `View -> Cell Toolbar -> Slideshow` allows one to choose how each cell is displayed in the slideshow 
 
 References: 
-* https://github.com/damianavila/RISE
-* https://damianavila.github.io/RISE/
+https://github.com/damianavila/RISE
+ https://damianavila.github.io/RISE/
