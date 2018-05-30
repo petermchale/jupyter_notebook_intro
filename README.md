@@ -1,5 +1,4 @@
 # Installing and firing up Jupyter
----
 
 install Python and Jupyter by installing Anaconda from 
 https://www.anaconda.com/download/#macos
