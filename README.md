@@ -1,4 +1,4 @@
-Installing and firing up Jupyter
+# Installing and firing up Jupyter
 ---
 
 install Python and Jupyter by installing Anaconda from 
@@ -11,4 +11,3 @@ jupyter notebook
 close a jupyter notebook by pressing ctrl-c twice at the command prompt
 deactivate conda environment
 source deactivate
-# jupyter_notebook_intro
