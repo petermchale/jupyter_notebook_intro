@@ -9,8 +9,7 @@ conda create -n lab-meeting python=2 ipython-notebook --yes
 source activate lab-meeting
 ```
 
-* start the Jupyter notebook server:  
-```jupyter notebook```
+* start the Jupyter notebook server using  `jupyter notebook`
 
 * close a jupyter notebook by pressing `ctrl-c` twice at the command prompt
 
